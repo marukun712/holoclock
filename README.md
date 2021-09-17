@@ -1,13 +1,13 @@
 ## holoclock
 ### ホロライブファンのためのシンプルでミニマムな時計スクリーンセーバです。
 ### シンプルな時計に、配信スケジュール、hololive音楽プレイヤー、配信マルチビューアー、関連チャンネル表示機能などが呼び出せるアイコンが埋め込んであります。
-### 使わせていただいたサイト
+## 使わせていただいたサイト
 ### holodex 様
 https://holodex.net/
 ### hololive公式 様
 https://hololive.hololivepro.com/schedule/
 
-### web版
+## web版
 https://marukun712.github.io/holoclock/
 
 ### download
