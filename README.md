@@ -11,9 +11,9 @@ https://hololive.hololivepro.com/schedule/
 https://marukun712.github.io/holoclock/
 
 ### download
-### [chrome拡張機能版](https://github.com/marukun712/holoclock/raw/main/holoclock.zip)
-### [windows版](https://drive.google.com/u/0/uc?export=download&confirm=yMFA&id=1QcoONFvDDrA9PP6m-PaYRANEcDXpl94D)
-### [mac os版](https://drive.google.com/u/0/uc?export=download&confirm=8xvN&id=1yp6yu-bkTWchNHuISyJudBQFv5Tit4za)
+## [chrome拡張機能版](https://github.com/marukun712/holoclock/raw/main/holoclock.zip)
+## [windows版](https://drive.google.com/u/0/uc?export=download&confirm=yMFA&id=1QcoONFvDDrA9PP6m-PaYRANEcDXpl94D)
+## [mac os版](https://drive.google.com/u/0/uc?export=download&confirm=8xvN&id=1yp6yu-bkTWchNHuISyJudBQFv5Tit4za)
 
 ### 参考にさせていただいたサイト
 
