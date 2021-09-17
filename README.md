@@ -15,6 +15,9 @@ https://marukun712.github.io/holoclock/
 ## [windows版](https://drive.google.com/u/0/uc?export=download&confirm=yMFA&id=1QcoONFvDDrA9PP6m-PaYRANEcDXpl94D)
 ## [mac os版](https://drive.google.com/u/0/uc?export=download&confirm=8xvN&id=1yp6yu-bkTWchNHuISyJudBQFv5Tit4za)
 
+### 拡張機能の読み込み方
+https://blog.janjan.net/2020/04/01/chrome-load-non-package-extensions/
+
 ### 参考にさせていただいたサイト
 
 ### CSSとJavaScriptでおしゃれなデジタル時計を実装する方法
