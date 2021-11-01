@@ -18,7 +18,7 @@ body{
 
 .clock{
     font-family: 'Myfont';
-  color: white;
+  color: #daf6ff;
   line-height: 0.001; 
   text-align: center; 
 }
@@ -311,3 +311,19 @@ body{
   top:0%;
   right: 0%;
 }
+
+.scratch{
+  left: 30%;
+  position: absolute;
+  top: 73%;
+}
+
+#form-area{
+  height:50px;
+  padding:0 10px; 
+  position:absolute; 
+  border-radius:25px;
+  outline:0;
+  background:#eee;
+  width: 800px;
+  }
